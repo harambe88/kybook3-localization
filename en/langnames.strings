@@ -3,41 +3,42 @@
   yar
 
   Created by Kolyvan on 24/11/2017.
+  German Version by harambe88 19/12/2018
   Copyright © 2017 Konstantin Bukreev. All rights reserved.
 */
 
-"Arabic"                = "Arabic";
-"Bulgarian"             = "Bulgarian";
-"Czech"                 = "Czech";
-"Danish"                = "Danish";
-"German"                = "German";
-"Greek"                 = "Greek";
-"English"               = "English";
-"Spanish"               = "Spanish";
-"Finnish"               = "Finnish";
-"French"                = "French";
-"Hebrew"                = "Hebrew";
+"Arabic"                = "Arabisch";
+"Bulgarian"             = "Bulgarisch";
+"Czech"                 = "Tschechisch";
+"Danish"                = "Dänisch";
+"German"                = "Deutsch";
+"Greek"                 = "Griechisch";
+"English"               = "Englisch";
+"Spanish"               = "Spanisch";
+"Finnish"               = "Finnisch";
+"French"                = "Französisch";
+"Hebrew"                = "Hebräisch";
 "Hindi"                 = "Hindi";
-"Croatian"              = "Croatian";
-"Hungarian"             = "Hungarian";
-"Indonesian"            = "Indonesian";
-"Icelandic"             = "Icelandic";
-"Italian"               = "Italian";
-"Japanese"              = "Japanese";
-"Korean"                = "Korean";
-"Norwegian"             = "Norwegian";
-"Dutch"                 = "Dutch";
-"Polish"                = "Polish";
-"Portuguese"            = "Portuguese";
-"Romanian"              = "Romanian";
-"Russian"               = "Russian";
-"Slovak"                = "Slovak";
-"Swedish"               = "Swedish";
+"Croatian"              = "Kroatisch";
+"Hungarian"             = "Ungarisch";
+"Indonesian"            = "Indonesisch";
+"Icelandic"             = "Isländisch";
+"Italian"               = "Italienisch";
+"Japanese"              = "Japaneisch";
+"Korean"                = "Koreanisch";
+"Norwegian"             = "Norwegisch";
+"Dutch"                 = "Holländisch";
+"Polish"                = "Polnisch";
+"Portuguese"            = "Portugiesisch";
+"Romanian"              = "Rumänisch";
+"Russian"               = "Russisch";
+"Slovak"                = "Slovakisch";
+"Swedish"               = "Schwedisch";
 "Thai"                  = "Thai";
-"Turkish"               = "Turkish";
-"Chinese"               = "Chinese";
-"Simplified Chinese"    = "Simplified Chinese";
-"Traditional Chinese"   = "Traditional Chinese";
-"Persian"               = "Persian";
+"Turkish"               = "Türkisch";
+"Chinese"               = "Chinesisch";
+"Simplified Chinese"    = "Vereinfachtes Chinesisch";
+"Traditional Chinese"   = "Traditionelles Chinesisch";
+"Persian"               = "Persisch";
 "Urdu"                  = "Urdu";
-"Vietnamese"            = "Vietnamese";
+"Vietnamese"            = "Vietnamesisch;
