@@ -3,87 +3,88 @@
   yar
 
   Created by Kolyvan on 24/11/2017.
+  German Version by harambe88 18/12/2018
   Copyright © 2017 Konstantin Bukreev. All rights reserved.
 */
 
 // COMMON
 
-"common.empty"              = "Empty";
-"common.close"              = "Close";
-"common.cancel"             = "Cancel";
-"common.done"               = "Done";
-"common.cancelled"          = "Cancelled";
-"common.cancelling"         = "Cancelling ...";
-"common.loading"            = "Loading ...";
-"common.preparing"          = "Preparing ...";
-"common.edit"               = "Edit";
-"common.delete"             = "Delete";
-"common.add"                = "Add";
-"common.search"             = "Search";
-"common.save"               = "Save";
-"common.enabled"            = "Enabled";
-"common.enable"             = "Enable";
-"common.apply"              = "Apply";
-"common.more"               = "More";
-"common.completed"          = "Completed";
-"common.inprogress"         = "In progress ...";
-"common.downloading"        = "Downloading";
-"common.archiving"          = "Archiving ...";
-"common.unarchiving"        = "Unarchiving ...";
-"common.none"               = "None";
-"common.configure"          = "Configure";
-"common.confirm"            = "Confirm";
-"common.continue"           = "Continue";
-"common.yes"                = "Yes";
-"common.no"                 = "No";
-"common.help"               = "Help";
-"common.undo"               = "Undo";
+"common.empty"              = "Leer";
+"common.close"              = "Schlöießen";
+"common.cancel"             = "Abbrechen";
+"common.done"               = "OK";
+"common.cancelled"          = "Abgebrochen";
+"common.cancelling"         = "Wird abgebrochen ...";
+"common.loading"            = "Wird geladen ...";
+"common.preparing"          = "Wird vorbereitet ...";
+"common.edit"               = "Ändern";
+"common.delete"             = "Löschen";
+"common.add"                = "Hinfügen";
+"common.search"             = "Suchen";
+"common.save"               = "Sichern";
+"common.enabled"            = "Enabled";                  xxxxxxxxxxxxxxxx
+"common.enable"             = "Enable";                xxxxxxxxxxxxxxxxxxx
+"common.apply"              = "Anwenden";
+"common.more"               = "Mehr";
+"common.completed"          = "Fertig";
+"common.inprogress"         = "In Arbeit ...";
+"common.downloading"        = "Lädt herunter ...";
+"common.archiving"          = "Wird archiviert ...";
+"common.unarchiving"        = "Wird de-archiviert ...";
+"common.none"               = "Kein";
+"common.configure"          = "Konfigurieren";
+"common.confirm"            = "Bestätigen";
+"common.continue"           = "Weiter";
+"common.yes"                = "Ja";
+"common.no"                 = "Nein";
+"common.help"               = "Hilfe";
+"common.undo"               = "Rückgängig";
 
 // DATE
 
 "date.relation.aftertime"   = "Aftertime"; // What does this refer to? It is not a commonly used word in English
-"date.relation.tomorrow"    = "Tomorrow";
-"date.relation.today"       = "Today";
-"date.relation.yesterday"   = "Yesterday";
-"date.relation.weekago"     = "Week ago";
-"date.relation.monthago"    = "Month ago";
-"date.relation.yearago"     = "Year ago";
-"date.relation.foretime"    = "Foretime"; // What does this refer to? It is not a commonly used word in English
+"date.relation.tomorrow"    = "Morgen";
+"date.relation.today"       = "Heute";
+"date.relation.yesterday"   = "Gestern";
+"date.relation.weekago"     = "Letzte Woche";
+"date.relation.monthago"    = "Letzten Monat";
+"date.relation.yearago"     = "Letztes Jahr";
+"date.relation.foretime"    = "Früher"; // What does this refer to? It is not a commonly used word in English
 
 // ERRORS
 
-"error"                         = "Error";
-"error.critical"                = "Critical error";
-"error.oops"                    = "Oops, something went wrong!";
-"error.accessdenied"            = "Access denied";
-"error.unauthorized"            = "Unauthorized";
-"error.unexpected"              = "Unexpected failure";
-"error.unimplemented"           = "Required function is not implemented yet";
-"error.cancelled"               = "Operation was cancelled";
-"error.timeout"                 = "Aborted due to timeout";
-"error.oom"                     = "Out of memory";
-"error.notsupported"            = "Not supported";
-"error.notfound"                = "Not found";
-"error.file.notfound"           = "File not found";
-"error.file.notdirectory"       = "File is not a directory";
-"error.file.alreadyexists"      = "File already exists";
-"error.item.alreadyexists"      = "Item already exists";
-"error.storage.alreadyexists"   = "File storage already exists";
-"error.bookshelf.alreadyexists" = "Bookshelf already exists";
-"error.file.toobig"             = "File is too big";
-"error.icloud.notconnected"     = "iCloud is not connected";
-"error.cloud.notlinked"         = "Cloud storage is not linked";
-"error.nonetwork"               = "No network connection";
-"error.notresponding"           = "Host did not respond";
-"error.emptyresponse"           = "Empty response";
-"error.invalidresponse"         = "Invalid response";
-"error.mimetype"                = "MIME type is invalid";
-"error.emptyname"               = "Empty name";
-"error.badname"                 = "Invalid name";
-"error.drop"                    = "Unable to drop item";
-"error.import.file"             = "Unable to import file";
-"error.open.file"               = "Unable open a file";
-"error.share.file.none"         = "No file to share";
+"error"                         = "Fehler";
+"error.critical"                = "Kritischer Fehler";
+"error.oops"                    = "Ups, das ist etwas schief gelaufen!";
+"error.accessdenied"            = "ZUgriff gesperrt";
+"error.unauthorized"            = "Unautorisiert";
+"error.unexpected"              = "Unerwarteter Fehler";
+"error.unimplemented"           = "Gewünschte Funktion noch nicht implementiert";
+"error.cancelled"               = "Operation wurde abgebrochen";
+"error.timeout"                 = "Abbruch wegen Zeitüberschreitung";
+"error.oom"                     = "Speicherfehler";
+"error.notsupported"            = "Nicht unterstützt";
+"error.notfound"                = "Nicht gefunden";
+"error.file.notfound"           = "Datei nicht gefunden";
+"error.file.notdirectory"       = "Datei ist kein Verzeichnis";
+"error.file.alreadyexists"      = "Datei existiert bereits";
+"error.item.alreadyexists"      = "Element existiert bereits";                 
+"error.storage.alreadyexists"   = "Dateispeicher existiert bereits";
+"error.bookshelf.alreadyexists" = "Bücherregal existiert bereits";
+"error.file.toobig"             = "Datei ist zu groß";
+"error.icloud.notconnected"     = "iCloud ist nicht verbunden";
+"error.cloud.notlinked"         = "Cloud Soeicher ist nicht verbunden";
+"error.nonetwork"               = "Keine Netzwerkverbindung";
+"error.notresponding"           = "Host hat nicht genatwortet";
+"error.emptyresponse"           = "Leere Antwort";
+"error.invalidresponse"         = "Ungültige Antwort";
+"error.mimetype"                = "MIME type ist ungültig";
+"error.emptyname"               = "Leerer Name";
+"error.badname"                 = "Ungültiger Name";
+"error.drop"                    = "Element kann nicht eingefügt werden";
+"error.import.file"             = "Datei kann nicht importiert werden";
+"error.open.file"               = "Datei kann nicht geöffnet werden";
+"error.share.file.none"         = "Keine Datei zum teilen";  //xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 "error.share.file.cloud"        = "Unable to share a file from cloud storage. First download a file to the device";
 "error.book.save.review"        = "Unable to save the book review";
 "error.book.delete.review"      = "Unable to delete the book review";
