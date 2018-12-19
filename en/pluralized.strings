@@ -3,75 +3,76 @@
   yar
 
   Created by Kolyvan on 24/11/2017.
+  German Version by harambe88 18/12/2018
   Copyright © 2017 Konstantin Bukreev. All rights reserved.
 */
 
-"files.zero"    = "0 files";
-"files.one"     = "1 file";
-"files.two"     = "%zd files";
-"files.few"     = "%zd files";
-"files.many"    = "%zd files";
-"files.other"   = "%zd files";
+"files.zero"    = "0 Dateien";
+"files.one"     = "1 Datei";
+"files.two"     = "%zd Dateien";
+"files.few"     = "%zd Dateien";
+"files.many"    = "%zd Dateien";
+"files.other"   = "%zd Dateien";
 
-"folders.zero"    = "0 folders";
-"folders.one"     = "1 folder";
-"folders.two"     = "%zd folders";
-"folders.few"     = "%zd folders";
-"folders.many"    = "%zd folders";
-"folders.other"   = "%zd folders";
+"folders.zero"    = "0 Ordner";
+"folders.one"     = "1 Ordner";
+"folders.two"     = "%zd Ordner";
+"folders.few"     = "%zd Ordner";
+"folders.many"    = "%zd Ordner";
+"folders.other"   = "%zd Ordner";
 
-"pages.zero"    = "0 pages";
-"pages.one"     = "1 page";
-"pages.two"     = "%zd pages";
-"pages.few"     = "%zd pages";
-"pages.many"    = "%zd pages";
-"pages.other"   = "%zd pages";
+"pages.zero"    = "0 Seiten";
+"pages.one"     = "1 Seite";
+"pages.two"     = "%zd Seiten";
+"pages.few"     = "%zd Seiten";
+"pages.many"    = "%zd Seiten";
+"pages.other"   = "%zd Seiten";
 
-"words.zero"    = "0 words";
-"words.one"     = "1 word";
-"words.two"     = "%zd words";
-"words.few"     = "%zd words";
-"words.many"    = "%zd words";
-"words.other"   = "%zd words";
+"words.zero"    = "0 Wörter";
+"words.one"     = "1 Wort";
+"words.two"     = "%zd Wörter";
+"words.few"     = "%zd Wörter";
+"words.many"    = "%zd Wörter";
+"words.other"   = "%zd Wörter";
 
-"notes.zero"    = "0 notes";
-"notes.one"     = "1 note";
-"notes.two"     = "%zd notes";
-"notes.few"     = "%zd notes";
-"notes.many"    = "%zd notes";
-"notes.other"   = "%zd notes";
+"notes.zero"    = "0 Notizen";
+"notes.one"     = "1 Notiz";
+"notes.two"     = "%zd Notizen";
+"notes.few"     = "%zd Notizen";
+"notes.many"    = "%zd Notizen";
+"notes.other"   = "%zd Notizen";
 
-"books.zero"    = "0 books";
-"books.one"     = "1 book";
-"books.two"     = "%zd books";
-"books.few"     = "%zd books";
-"books.many"    = "%zd books";
-"books.other"   = "%zd books";
+"books.zero"    = "0 Bücher";
+"books.one"     = "1 Buch";
+"books.two"     = "%zd Bücher";
+"books.few"     = "%zd Bücher";
+"books.many"    = "%zd Bücher";
+"books.other"   = "%zd Bücher";
 
-"records.zero"    = "0 records";
-"records.one"     = "1 record";
-"records.two"     = "%zd records";
-"records.few"     = "%zd records";
-"records.many"    = "%zd records";
-"records.other"   = "%zd records";
+"records.zero"    = "0 Sätze";
+"records.one"     = "1 Satz";
+"records.two"     = "%zd Sätze";
+"records.few"     = "%zd Sätze";
+"records.many"    = "%zd Sätze";
+"records.other"   = "%zd Sätze";
 
-"minutes.zero"    = "0 minutes";
-"minutes.one"     = "1 minute";
-"minutes.two"     = "%zd minutes";
-"minutes.few"     = "%zd minutes";
-"minutes.many"    = "%zd minutes";
-"minutes.other"   = "%zd minutes";
+"minutes.zero"    = "0 Minuten";
+"minutes.one"     = "1 Minute";
+"minutes.two"     = "%zd Minuten";
+"minutes.few"     = "%zd Minuten";
+"minutes.many"    = "%zd Minuten";
+"minutes.other"   = "%zd Minuten";
 
-"seconds.zero"    = "0 seconds";
-"seconds.one"     = "1 seconds";
-"seconds.two"     = "%zd seconds";
-"seconds.few"     = "%zd seconds";
-"seconds.many"    = "%zd seconds";
-"seconds.other"   = "%zd seconds";
+"seconds.zero"    = "0 Sekunden";
+"seconds.one"     = "1 Sekunde";
+"seconds.two"     = "%zd Sekunden";
+"seconds.few"     = "%zd Sekunden";
+"seconds.many"    = "%zd Sekunden";
+"seconds.other"   = "%zd Sekunden";
 
-"matches.zero"    = "0 matches";
-"matches.one"     = "1 match";
-"matches.two"     = "%zd matches";
-"matches.few"     = "%zd matches";
-"matches.many"    = "%zd matches";
-"matches.other"   = "%zd matches";
+"matches.zero"    = "0 Übereinstimmungen";
+"matches.one"     = "1 Übereinstimmung";
+"matches.two"     = "%zd Übereinstimmungen";
+"matches.few"     = "%zd Übereinstimmungen";
+"matches.many"    = "%zd Übereinstimmungen";
+"matches.other"   = "%zd Übereinstimmungen";
